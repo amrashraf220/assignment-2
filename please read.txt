@@ -1,0 +1,2 @@
+I have an error on my pc which doesn't allow my to produce webpage file ,
+ sorry for that i have tried million times to make it work but i couldn't so here is the .Rmd file
